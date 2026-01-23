@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### About Me
 I'm a Paramedic Supervisor transitioning into data roles.  In 2021 I started taking CS courses at Thompson River's University just for fun and learned programming in Java.  I quickly discovered Python and the data world.  As a paramedic, I started looking at a lot of our practices, from the way we handle fleet and logistics to how we distribute ambulances, and realizing they're all broken systems.
 After becoming a supervisor I started getting involved in handling service data using my domain knowledge.  
-That led me to enrolling in a Master's of Data Science at the University of Colorado.  But, I don't think I want to be a data scientist proper.  At my core, I want to solve problems and create the solutions myself.  I'm using ML to help identify issues we can improve, and statistical modelling to hypothisies solutions.
+That led me to enrolling in a Master's of Data Science at the University of Colorado.  At my core, I want to solve problems and create the solutions myself.  I'm using ML to help identify issues we can improve, and statistical modelling to hypothisies solutions.
 Then, I start working towards the solutions.
 
 ### Projects:
