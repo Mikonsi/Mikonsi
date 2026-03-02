@@ -17,23 +17,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About Me
+## About Me
 I'm a Superintendent of Paramedic Operations transitioning into health data and informatics roles. I started taking CS courses in 2021 just out of curiosity, learned Java, then discovered Python and never looked back.
 After ten years in EMS — and a few as a supervisor — I started seeing the same pattern everywhere: operationally complex systems generating enormous amounts of data, with almost none of it being used to actually improve how care gets delivered or how services get run. That's the problem I want to spend my career solving.
 I'm currently completing a Master of Data Science and building toward roles at the intersection of clinical operations and data infrastructure — health informatics, clinical data engineering, and health IT systems.
 
-Projects
-Traumatic Exposure Pipeline
+## Projects
+### Traumatic Exposure Pipeline
 Containerized ETL system generating synthetic paramedic call data and ingesting it into PostgreSQL, with a Marimo dashboard tracking cumulative traumatic event exposure per provider. Designed to support proactive mental health intervention in EMS services.
 Python · Polars · PostgreSQL · Podman
 Offload Delay Simulation (in progress)
 Discrete event simulation modelling ambulance coverage during hospital offload delays, identifying minimum staffing thresholds during demand surges.
 Python · SimPy
 
-Stack
+## Stack
 Primary: Python · SQL · Bash · Linux
 Exploring: Rust · FHIR/HL7 interoperability tooling
-Currently contributing to: OpenEMR
 
-Collaboration
+## Collaboration
 Open to collaborating on healthcare data, EMS operational analytics, or FHIR/HL7 interoperability projects. If you're working on something at the intersection of emergency services and data infrastructure, reach out.
