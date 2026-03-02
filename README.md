@@ -17,25 +17,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
-I'm a Paramedic Supervisor transitioning into data roles.  In 2021 I started taking CS courses at Thompson River's University just for fun and learned programming in Java.  I quickly discovered Python and the data world.  As a paramedic, I started looking at a lot of our practices, from the way we handle fleet and logistics to how we distribute ambulances, and realizing they're all broken systems.
-After becoming a supervisor I started getting involved in handling service data using my domain knowledge.  
-That led me to enrolling in a Master's of Data Science at the University of Colorado.  At my core, I want to solve problems and create the solutions myself.  I'm using ML to help identify issues we can improve, and statistical modelling to hypothisies solutions.
-Then, I start working towards the solutions.
+About Me
+I'm a Superintendent of Paramedic Operations transitioning into health data and informatics roles. I started taking CS courses in 2021 just out of curiosity, learned Java, then discovered Python and never looked back.
+After ten years in EMS — and a few as a supervisor — I started seeing the same pattern everywhere: operationally complex systems generating enormous amounts of data, with almost none of it being used to actually improve how care gets delivered or how services get run. That's the problem I want to spend my career solving.
+I'm currently completing a Master of Computer Science and building toward roles at the intersection of clinical operations and data infrastructure — health informatics, clinical data engineering, and health IT systems.
 
-### Projects:
-Traumatic Exposure Dashboard: Designed an intervention system tracking paramedic exposure to traumatic events, enabling proactive mental health support.
+Projects
+Traumatic Exposure Pipeline
+Containerized ETL system generating synthetic paramedic call data and ingesting it into PostgreSQL, with a Marimo dashboard tracking cumulative traumatic event exposure per provider. Designed to support proactive mental health intervention in EMS services.
+Python · Polars · PostgreSQL · Podman
+Offload Delay Simulation (in progress)
+Discrete event simulation modelling ambulance coverage during hospital offload delays, identifying minimum staffing thresholds during demand surges.
+Python · SimPy
 
-Offload-Delay Simulation: Currently building simulations to optimize ambulance coverage during hospital congestion, ensuring minimum coverage levels are maintained during demand surges.
+Stack
+Primary: Python · SQL · Bash · Linux
+Exploring: Rust · FHIR/HL7 interoperability tooling
+Currently contributing to: OpenEMR
 
-### Technical Interests:
-Core: Python, Rust, SQL.
-
-Interests: Building custom CLI tools, resilient data pipelines, and high-performance systems.
-
-Current Focus: Deepening knowledge in Rust and advanced Data Engineering design patterns.
-
-I also love Elixir, but still need to build more projects with it.  Currently, I'm prioritizing learning Rust, and expanding my python to cover more data engineering topics.  
-
-### Collaboration!
-I'm always up to collaborate on projects, especially Emergency Services/Emergency medicine related research.  Feel free to reach out if you're reading this and looking for the same
+Collaboration
+Open to collaborating on healthcare data, EMS operational analytics, or FHIR/HL7 interoperability projects. If you're working on something at the intersection of emergency services and data infrastructure, reach out.
